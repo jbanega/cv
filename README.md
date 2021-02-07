@@ -1,2 +1,2 @@
 # cv
-My personal website (CV and portfolio)
+My first personal website (CV) written in HTML
